@@ -35,7 +35,7 @@ This is a machine learning web application that predicts whether a passenger wou
 
 ```
 
-git clone https://github.com/your-username/titanic-survival-predictor.git
+git clone https://github.com/Titanic-survival-prediction-a-Data-Science-project.git
 
 cd titanic-survival-predictor
 
