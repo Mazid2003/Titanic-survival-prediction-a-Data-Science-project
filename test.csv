@@ -1,0 +1,6 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+892,?,3,John Doe,male,34.5,0,0,A/5 21171,7.8292,,S
+893,?,3,Jane Smith,female,47.0,1,0,113803,7.0,,C
+894,?,2,Emma Watson,female,62.0,0,0,113783,9.6875,,Q
+895,?,3,Mike Johnson,male,27.0,0,0,373450,8.6625,,S
+896,?,3,Sarah Connor,female,22.0,1,0,349909,12.2875,,S
