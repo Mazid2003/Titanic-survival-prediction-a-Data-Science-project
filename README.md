@@ -33,8 +33,6 @@ This is a machine learning web application that predicts whether a passenger wou
 
 ### 1. Clone the repository
 
-```
-
 git clone https://github.com/Titanic-survival-prediction-a-Data-Science-project.git
 
 cd titanic-survival-predictor
@@ -61,6 +59,7 @@ Machine Learning (scikit-learn / joblib)
 
 Responsive Design
 
+```
 **📁 Project Structure**
 
 ├── app.py
@@ -71,6 +70,8 @@ Responsive Design
 │   └── styles.css (if separated)
 ├── requirements.txt
 └── README.md
+```
+
 ✅ Example Prediction
 
 Input:
