@@ -97,9 +97,8 @@ Prediction:
 **Screenshots**
 
 ![screenshot_2025-04-29_19-38-24](https://github.com/user-attachments/assets/f2eab517-1cb5-487a-9363-bd91bb659d37)
-![screenshot_2025-04-29_19-39-37](https://github.com/user-attachments/assets/cad1d5b0-0e77-4221-a01d-d2d27ec8a9c9)
 ![screenshot_2025-04-29_19-39-09](https://github.com/user-attachments/assets/fbd980a0-71cd-4609-82c8-754b9c8bbf84)
-
+![screenshot_2025-04-29_19-39-37](https://github.com/user-attachments/assets/cad1d5b0-0e77-4221-a01d-d2d27ec8a9c9)
 
 **📄 License**
 
