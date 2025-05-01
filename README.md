@@ -60,7 +60,7 @@ Machine Learning (scikit-learn / joblib)
 Responsive Design
 
 ```
-**📁 Project Structure**
+📁 Project Structure
 
 ├── app.py
 ├── model.pkl
@@ -100,8 +100,19 @@ Prediction:
 ![screenshot_2025-04-29_19-39-09](https://github.com/user-attachments/assets/fbd980a0-71cd-4609-82c8-754b9c8bbf84)
 ![screenshot_2025-04-29_19-39-37](https://github.com/user-attachments/assets/cad1d5b0-0e77-4221-a01d-d2d27ec8a9c9)
 
+**💬 Want to Collaborate?**
+
+Feel free to fork the repo, submit PRs, and give your feedback! 🔥💡
+
 **📄 License**
 
 This project is licensed under the MIT License - feel free to use and modify!
+
+**📬 Contact**
+
+Created by Mohammad Mazid
+Email:mazidmd750@gmail.com
+Linkedin: https://www.linkedin.com/in/mohammadmazid
+
 
 
