@@ -19,7 +19,7 @@ This is a machine learning web application that predicts whether a passenger wou
 
 | Field       | Description                         | Example       |
 |-------------|-------------------------------------|---------------|
-| Pclass      | Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd) | 3           |
+| Pclass      | Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd) | 3        |
 | Sex         | Gender                              | male / female |
 | Age         | Age in years                        | 29            |
 | SibSp       | # of siblings/spouses aboard        | 1             |
@@ -110,8 +110,8 @@ This project is licensed under the MIT License - feel free to use and modify!
 
 **📬 Contact**
 
-Created by Mohammad Mazid
-Email:mazidmd750@gmail.com
+Created by Mohammad Mazid<br>
+Email:mazidmd750@gmail.com<br>
 Linkedin: https://www.linkedin.com/in/mohammadmazid
 
 
